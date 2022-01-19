@@ -1,0 +1,33 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+#bed_room{
+    background: linear-gradient(#75F4F4 0%, #EFA8B8 50%,#23B5D3 100%);
+     box-shadow: 5px 5px 5px grey ;
+}
+#tv_ac{
+     background: linear-gradient(#75F4F4 0%, #EFA8B8 50%,#23B5D3 100%);
+     box-shadow: 5px 5px 5px grey ;
+}
+#desk{
+    background: linear-gradient(#75F4F4 0%, #EFA8B8 50%,#23B5D3 100%);
+     box-shadow: 5px 5px 5px grey ;
+}
+#bottles{
+    background: linear-gradient(#75F4F4 0%, #EFA8B8 50%,#23B5D3 100%);
+     box-shadow: 5px 5px 5px grey ;
+}
+#fruit_basket{
+    background: linear-gradient(#75F4F4 0%, #EFA8B8 50%,#23B5D3 100%);
+     box-shadow: 5px 5px 5px grey ;
+}
